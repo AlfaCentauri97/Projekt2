@@ -1,0 +1,77 @@
+﻿<Page x:Class="projekt_programowanie.PageHome"
+      xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      Title="PageHome">
+
+    <Page.Resources>
+        <Storyboard x:Key="MenuOpen">
+            <DoubleAnimationUsingKeyFrames Storyboard.TargetProperty="(FrameworkElement.Width)" Storyboard.TargetName="GridMenu">
+                <EasingDoubleKeyFrame KeyTime="0:0:0" Value="785"/>
+                <EasingDoubleKeyFrame KeyTime="0:0:1" Value="60"/>
+            </DoubleAnimationUsingKeyFrames>
+        </Storyboard>
+        <Storyboard x:Key="MenuClose">
+            <DoubleAnimationUsingKeyFrames Storyboard.TargetProperty="(FrameworkElement.Width)" Storyboard.TargetName="GridMenu">
+                <EasingDoubleKeyFrame KeyTime="0:0:1" Value="780"/>
+                <EasingDoubleKeyFrame KeyTime="0:0:1" Value="785"/>
+            </DoubleAnimationUsingKeyFrames>
+        </Storyboard>
+    </Page.Resources>
+    <Page.Triggers>
+        <EventTrigger RoutedEvent="ButtonBase.Click" SourceName="ButtonOpenMenu">
+            <BeginStoryboard Storyboard="{StaticResource MenuOpen}"/>
+        </EventTrigger>
+        <EventTrigger RoutedEvent="ButtonBase.Click" SourceName="ButtonCloseMenu">
+            <BeginStoryboard Storyboard="{StaticResource MenuClose}"/>
+        </EventTrigger>
+    </Page.Triggers>
+
+    <Grid x:Name="GridMain" Height="460" Width="1080" Background="Aquamarine">
+        <Grid Margin="150,0,150,0" Background="WhiteSmoke"/>
+        <Grid x:Name="GridMenu" Width="60" HorizontalAlignment="Left" Margin="150,0,0,0" >
+            <StackPanel Background="#FFC1FFEA">
+                <Grid Height="60">
+                    <Button x:Name="ButtonOpenMenu" Width="60" Height="60" Background="{x:Null}" BorderBrush="{x:Null}" VerticalAlignment="Top" HorizontalAlignment="Right" Click="ButtonOpenMenu_Click">
+                        <materialDesign:PackIcon Foreground="#f6047b" Kind="ArrowLeft" Width="25" Height="25"/>
+                    </Button>
+                    <Button x:Name="ButtonCloseMenu" Width="60" Height="60" Background="{x:Null}" BorderBrush="{x:Null}" VerticalAlignment="Top" HorizontalAlignment="Right" Visibility="Collapsed" Click="ButtonCloseMenu_Click">
+                        <materialDesign:PackIcon Foreground="#f6047b" Kind="Menu" Width="25" Height="25"/>
+                    </Button>
+                </Grid>
+                <ListView ScrollViewer.HorizontalScrollBarVisibility="Disabled">
+                    <Button x:Name="ButtonOpenPageMovie" Width="765" Height="70" Margin="-9,-9" Background="{x:Null}" BorderBrush="{x:Null}" VerticalAlignment="Top" HorizontalAlignment="Left" Uid="0" Click="ButtonHome_Menu" >
+                        <StackPanel Orientation="Horizontal" Margin="-47,0,0,0">
+                            <TextBlock Text="Movies" Foreground="#f6047b" HorizontalAlignment="Left" Margin="20 10" RenderTransformOrigin="0.619,0.528" />
+                        </StackPanel>
+                    </Button>
+                    <Button x:Name="ButtonOpenPageSeries" Width="765" Height="70" Margin="-9 -9" Background="{x:Null}" BorderBrush="{x:Null}" VerticalAlignment="Top" HorizontalAlignment="Left" Uid="1" Click="ButtonHome_Menu" >
+                        <StackPanel Orientation="Horizontal" Margin="-47,0,0,0">
+                            <TextBlock Text="Series" Foreground="#f6047b" HorizontalAlignment="Left" Margin="20 10" />
+                        </StackPanel>
+                    </Button>
+                    <Button x:Name="ButtonOpenPageMyBase" Width="765" Height="70" Margin="-9 -9" Background="{x:Null}" BorderBrush="{x:Null}" VerticalAlignment="Top" HorizontalAlignment="Left" Uid="2" Click="ButtonHome_Menu"  >
+                        <StackPanel Orientation="Horizontal" Margin="-47,0,0,0">
+                            <TextBlock Text="My Base" Foreground="#f6047b" HorizontalAlignment="Left" Margin="20 10" />
+                        </StackPanel>
+                    </Button>
+                    <Button x:Name="ButtonOpenPageBest" Width="765" Height="70" Margin="-9 -9" Background="{x:Null}" BorderBrush="{x:Null}" VerticalAlignment="Top" HorizontalAlignment="Stretch" Uid="3" Click="ButtonHome_Menu"  >
+                        <StackPanel Orientation="Horizontal" Margin="-47,0,0,0">
+                            <TextBlock Text="Best" Foreground="#f6047b" HorizontalAlignment="Left" Margin="20 10" />
+                        </StackPanel>
+                    </Button>
+                    <Button x:Name="ButtonOpenPageRandom" Width="765" Height="70" Margin="-9 -9" Background="{x:Null}" BorderBrush="{x:Null}" VerticalAlignment="Top" HorizontalAlignment="Left" Uid="4" Click="ButtonHome_Menu" >
+                        <StackPanel Orientation="Horizontal" Margin="-47,0,0,0">
+                            <TextBlock Text="Random" Foreground="#f6047b" HorizontalAlignment="Left" Margin="20 10" />
+                        </StackPanel>
+                    </Button>
+                    <Button x:Name="ButtonOpenPageSearch" Width="765" Height="70" Margin="-9 -9" Background="{x:Null}" BorderBrush="{x:Null}" VerticalAlignment="Top" HorizontalAlignment="Left" Uid="5" Click="ButtonHome_Menu" >
+                        <StackPanel Orientation="Horizontal" Margin="-47,0,0,0">
+                            <TextBlock Text="Search" Foreground="#f6047b" HorizontalAlignment="Left" Margin="20 10" />
+                        </StackPanel>
+                    </Button>
+                </ListView>
+            </StackPanel>
+        </Grid>
+    </Grid>
+</Page>

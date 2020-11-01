@@ -1,0 +1,24 @@
+C:\Users\Mariusz\Documents\Visual Studio 2019\Projects\Zlecenia\Biblioteka filmow (t. jedn.)\Projekt-Programowanie-master\UnitTestProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Mariusz\Documents\Visual Studio 2019\Projects\Zlecenia\Biblioteka filmow (t. jedn.)\Projekt-Programowanie-master\UnitTestProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Mariusz\Documents\Visual Studio 2019\Projects\Zlecenia\Biblioteka filmow (t. jedn.)\Projekt-Programowanie-master\UnitTestProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Mariusz\Documents\Visual Studio 2019\Projects\Zlecenia\Biblioteka filmow (t. jedn.)\Projekt-Programowanie-master\UnitTestProject\bin\Debug\UnitTestProject.dll
+C:\Users\Mariusz\Documents\Visual Studio 2019\Projects\Zlecenia\Biblioteka filmow (t. jedn.)\Projekt-Programowanie-master\UnitTestProject\bin\Debug\UnitTestProject.pdb
+C:\Users\Mariusz\Documents\Visual Studio 2019\Projects\Zlecenia\Biblioteka filmow (t. jedn.)\Projekt-Programowanie-master\UnitTestProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Mariusz\Documents\Visual Studio 2019\Projects\Zlecenia\Biblioteka filmow (t. jedn.)\Projekt-Programowanie-master\UnitTestProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Mariusz\Documents\Visual Studio 2019\Projects\Zlecenia\Biblioteka filmow (t. jedn.)\Projekt-Programowanie-master\UnitTestProject\bin\Debug\nunit.framework.dll
+C:\Users\Mariusz\Documents\Visual Studio 2019\Projects\Zlecenia\Biblioteka filmow (t. jedn.)\Projekt-Programowanie-master\UnitTestProject\bin\Debug\projekt_programowanie.exe
+C:\Users\Mariusz\Documents\Visual Studio 2019\Projects\Zlecenia\Biblioteka filmow (t. jedn.)\Projekt-Programowanie-master\UnitTestProject\bin\Debug\projekt_programowanie.pdb
+C:\Users\Mariusz\Documents\Visual Studio 2019\Projects\Zlecenia\Biblioteka filmow (t. jedn.)\Projekt-Programowanie-master\UnitTestProject\bin\Debug\projekt_programowanie.exe.config
+C:\Users\Mariusz\Documents\Visual Studio 2019\Projects\Zlecenia\Biblioteka filmow (t. jedn.)\Projekt-Programowanie-master\UnitTestProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Mariusz\Documents\Visual Studio 2019\Projects\Zlecenia\Biblioteka filmow (t. jedn.)\Projekt-Programowanie-master\UnitTestProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Mariusz\Documents\Visual Studio 2019\Projects\Zlecenia\Biblioteka filmow (t. jedn.)\Projekt-Programowanie-master\UnitTestProject\bin\Debug\nunit.framework.pdb
+C:\Users\Mariusz\Documents\Visual Studio 2019\Projects\Zlecenia\Biblioteka filmow (t. jedn.)\Projekt-Programowanie-master\UnitTestProject\bin\Debug\nunit.framework.xml
+C:\Users\Mariusz\Documents\Visual Studio 2019\Projects\Zlecenia\Biblioteka filmow (t. jedn.)\Projekt-Programowanie-master\UnitTestProject\obj\Debug\UnitTestProject.csprojAssemblyReference.cache
+C:\Users\Mariusz\Documents\Visual Studio 2019\Projects\Zlecenia\Biblioteka filmow (t. jedn.)\Projekt-Programowanie-master\UnitTestProject\obj\Debug\UnitTestProject.csproj.CoreCompileInputs.cache
+C:\Users\Mariusz\Documents\Visual Studio 2019\Projects\Zlecenia\Biblioteka filmow (t. jedn.)\Projekt-Programowanie-master\UnitTestProject\obj\Debug\UnitTestProject.csproj.CopyComplete
+C:\Users\Mariusz\Documents\Visual Studio 2019\Projects\Zlecenia\Biblioteka filmow (t. jedn.)\Projekt-Programowanie-master\UnitTestProject\obj\Debug\UnitTestProject.dll
+C:\Users\Mariusz\Documents\Visual Studio 2019\Projects\Zlecenia\Biblioteka filmow (t. jedn.)\Projekt-Programowanie-master\UnitTestProject\obj\Debug\UnitTestProject.pdb
+C:\Users\Karol\Desktop\Nowy folder (6)\Projekt-Programowanie-master\UnitTestProject\obj\Debug\UnitTestProject.csprojAssemblyReference.cache
+C:\Users\Karol\Desktop\Nowy folder (6)\Projekt-Programowanie-master\UnitTestProject\obj\Debug\UnitTestProject.csproj.CoreCompileInputs.cache
+C:\Users\Karol\Desktop\Nowy folder (6)\Projekt-Programowanie-master\UnitTestProject\obj\Debug\UnitTestProject.dll
+C:\Users\Karol\Desktop\Nowy folder (6)\Projekt-Programowanie-master\UnitTestProject\obj\Debug\UnitTestProject.pdb

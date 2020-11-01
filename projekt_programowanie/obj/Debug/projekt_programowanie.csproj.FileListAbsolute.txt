@@ -1,0 +1,163 @@
+C:\Users\Karol\source\repos\projekt_programowanie\projekt_programowanie\bin\Debug\projekt_programowanie.exe.config
+C:\Users\Karol\source\repos\projekt_programowanie\projekt_programowanie\bin\Debug\projekt_programowanie.exe
+C:\Users\Karol\source\repos\projekt_programowanie\projekt_programowanie\bin\Debug\projekt_programowanie.pdb
+C:\Users\Karol\source\repos\projekt_programowanie\projekt_programowanie\bin\Debug\MaterialDesignColors.dll
+C:\Users\Karol\source\repos\projekt_programowanie\projekt_programowanie\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\Karol\source\repos\projekt_programowanie\projekt_programowanie\bin\Debug\MaterialDesignColors.pdb
+C:\Users\Karol\source\repos\projekt_programowanie\projekt_programowanie\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\Karol\source\repos\projekt_programowanie\projekt_programowanie\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\Karol\source\repos\projekt_programowanie\projekt_programowanie\obj\Debug\projekt_programowanie.csprojAssemblyReference.cache
+C:\Users\Karol\source\repos\projekt_programowanie\projekt_programowanie\obj\Debug\MainWindow.g.cs
+C:\Users\Karol\source\repos\projekt_programowanie\projekt_programowanie\obj\Debug\App.g.cs
+C:\Users\Karol\source\repos\projekt_programowanie\projekt_programowanie\obj\Debug\projekt_programowanie_MarkupCompile.cache
+C:\Users\Karol\source\repos\projekt_programowanie\projekt_programowanie\obj\Debug\projekt_programowanie_MarkupCompile.lref
+C:\Users\Karol\source\repos\projekt_programowanie\projekt_programowanie\obj\Debug\MainWindow.baml
+C:\Users\Karol\source\repos\projekt_programowanie\projekt_programowanie\obj\Debug\projekt_programowanie.g.resources
+C:\Users\Karol\source\repos\projekt_programowanie\projekt_programowanie\obj\Debug\projekt_programowanie.Properties.Resources.resources
+C:\Users\Karol\source\repos\projekt_programowanie\projekt_programowanie\obj\Debug\projekt_programowanie.csproj.GenerateResource.cache
+C:\Users\Karol\source\repos\projekt_programowanie\projekt_programowanie\obj\Debug\projekt_programowanie.csproj.CoreCompileInputs.cache
+C:\Users\Karol\source\repos\projekt_programowanie\projekt_programowanie\obj\Debug\projekt_programowanie.csproj.CopyComplete
+C:\Users\Karol\source\repos\projekt_programowanie\projekt_programowanie\obj\Debug\projekt_programowanie.exe
+C:\Users\Karol\source\repos\projekt_programowanie\projekt_programowanie\obj\Debug\projekt_programowanie.pdb
+C:\Users\Karol\source\repos\projekt_programowanie\projekt_programowanie\obj\Debug\App.baml
+C:\Users\Karol\source\repos\projekt_programowanie\projekt_programowanie\obj\Debug\MyBase.g.cs
+C:\Users\Karol\source\repos\projekt_programowanie\projekt_programowanie\obj\Debug\PageMovie.g.cs
+C:\Users\Karol\source\repos\projekt_programowanie\projekt_programowanie\obj\Debug\PageSearch.g.cs
+C:\Users\Karol\source\repos\projekt_programowanie\projekt_programowanie\obj\Debug\PageSeries.g.cs
+C:\Users\Karol\source\repos\projekt_programowanie\projekt_programowanie\obj\Debug\MyBase.baml
+C:\Users\Karol\source\repos\projekt_programowanie\projekt_programowanie\obj\Debug\PageMovie.baml
+C:\Users\Karol\source\repos\projekt_programowanie\projekt_programowanie\obj\Debug\PageSearch.baml
+C:\Users\Karol\source\repos\projekt_programowanie\projekt_programowanie\obj\Debug\PageSeries.baml
+C:\Users\Karol\source\repos\projekt_programowanie\projekt_programowanie\obj\Debug\PageBest.baml
+C:\Users\Karol\source\repos\projekt_programowanie\projekt_programowanie\obj\Debug\PageRandom.baml
+C:\Users\Karol\source\repos\projekt_programowanie\projekt_programowanie\obj\Debug\PageBest.g.cs
+C:\Users\Karol\source\repos\projekt_programowanie\projekt_programowanie\obj\Debug\PageRandom.g.cs
+C:\Users\Karol\source\repos\projekt_programowanie\projekt_programowanie\bin\Debug\MySql.Data.dll
+C:\Users\Karol\source\repos\projekt_programowanie\projekt_programowanie\bin\Debug\Google.Protobuf.dll
+C:\Users\Karol\source\repos\projekt_programowanie\projekt_programowanie\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Karol\source\repos\projekt_programowanie\projekt_programowanie\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\Karol\source\repos\projekt_programowanie\projekt_programowanie\bin\Debug\Renci.SshNet.dll
+C:\Users\Karol\source\repos\projekt_programowanie\projekt_programowanie\bin\Debug\MySql.Data.xml
+C:\Users\Karol\source\repos\projekt_programowanie\projekt_programowanie\obj\Debug\PageHome.baml
+C:\Users\Karol\source\repos\projekt_programowanie\projekt_programowanie\obj\Debug\PageHome.g.cs
+C:\Users\Mariusz\Documents\Visual Studio 2019\Projects\Zlecenia\Biblioteka filmow (dodac testy jednostkowe)\projekt\projekt\Projekt-Programowanie-master\projekt_programowanie\bin\Debug\projekt_programowanie.exe.config
+C:\Users\Mariusz\Documents\Visual Studio 2019\Projects\Zlecenia\Biblioteka filmow (dodac testy jednostkowe)\projekt\projekt\Projekt-Programowanie-master\projekt_programowanie\bin\Debug\projekt_programowanie.exe
+C:\Users\Mariusz\Documents\Visual Studio 2019\Projects\Zlecenia\Biblioteka filmow (dodac testy jednostkowe)\projekt\projekt\Projekt-Programowanie-master\projekt_programowanie\bin\Debug\projekt_programowanie.pdb
+C:\Users\Mariusz\Documents\Visual Studio 2019\Projects\Zlecenia\Biblioteka filmow (dodac testy jednostkowe)\projekt\projekt\Projekt-Programowanie-master\projekt_programowanie\bin\Debug\MaterialDesignColors.dll
+C:\Users\Mariusz\Documents\Visual Studio 2019\Projects\Zlecenia\Biblioteka filmow (dodac testy jednostkowe)\projekt\projekt\Projekt-Programowanie-master\projekt_programowanie\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\Mariusz\Documents\Visual Studio 2019\Projects\Zlecenia\Biblioteka filmow (dodac testy jednostkowe)\projekt\projekt\Projekt-Programowanie-master\projekt_programowanie\bin\Debug\MaterialDesignColors.pdb
+C:\Users\Mariusz\Documents\Visual Studio 2019\Projects\Zlecenia\Biblioteka filmow (dodac testy jednostkowe)\projekt\projekt\Projekt-Programowanie-master\projekt_programowanie\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\Mariusz\Documents\Visual Studio 2019\Projects\Zlecenia\Biblioteka filmow (dodac testy jednostkowe)\projekt\projekt\Projekt-Programowanie-master\projekt_programowanie\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\Mariusz\Documents\Visual Studio 2019\Projects\Zlecenia\Biblioteka filmow (dodac testy jednostkowe)\projekt\projekt\Projekt-Programowanie-master\projekt_programowanie\obj\Debug\projekt_programowanie.csprojAssemblyReference.cache
+C:\Users\Mariusz\Documents\Visual Studio 2019\Projects\Zlecenia\Biblioteka filmow (dodac testy jednostkowe)\projekt\projekt\Projekt-Programowanie-master\projekt_programowanie\obj\Debug\MainWindow.baml
+C:\Users\Mariusz\Documents\Visual Studio 2019\Projects\Zlecenia\Biblioteka filmow (dodac testy jednostkowe)\projekt\projekt\Projekt-Programowanie-master\projekt_programowanie\obj\Debug\MyBase.baml
+C:\Users\Mariusz\Documents\Visual Studio 2019\Projects\Zlecenia\Biblioteka filmow (dodac testy jednostkowe)\projekt\projekt\Projekt-Programowanie-master\projekt_programowanie\obj\Debug\PageBest.baml
+C:\Users\Mariusz\Documents\Visual Studio 2019\Projects\Zlecenia\Biblioteka filmow (dodac testy jednostkowe)\projekt\projekt\Projekt-Programowanie-master\projekt_programowanie\obj\Debug\PageHome.baml
+C:\Users\Mariusz\Documents\Visual Studio 2019\Projects\Zlecenia\Biblioteka filmow (dodac testy jednostkowe)\projekt\projekt\Projekt-Programowanie-master\projekt_programowanie\obj\Debug\PageMovie.baml
+C:\Users\Mariusz\Documents\Visual Studio 2019\Projects\Zlecenia\Biblioteka filmow (dodac testy jednostkowe)\projekt\projekt\Projekt-Programowanie-master\projekt_programowanie\obj\Debug\PageRandom.baml
+C:\Users\Mariusz\Documents\Visual Studio 2019\Projects\Zlecenia\Biblioteka filmow (dodac testy jednostkowe)\projekt\projekt\Projekt-Programowanie-master\projekt_programowanie\obj\Debug\PageSearch.baml
+C:\Users\Mariusz\Documents\Visual Studio 2019\Projects\Zlecenia\Biblioteka filmow (dodac testy jednostkowe)\projekt\projekt\Projekt-Programowanie-master\projekt_programowanie\obj\Debug\PageSeries.baml
+C:\Users\Mariusz\Documents\Visual Studio 2019\Projects\Zlecenia\Biblioteka filmow (dodac testy jednostkowe)\projekt\projekt\Projekt-Programowanie-master\projekt_programowanie\obj\Debug\MainWindow.g.cs
+C:\Users\Mariusz\Documents\Visual Studio 2019\Projects\Zlecenia\Biblioteka filmow (dodac testy jednostkowe)\projekt\projekt\Projekt-Programowanie-master\projekt_programowanie\obj\Debug\MyBase.g.cs
+C:\Users\Mariusz\Documents\Visual Studio 2019\Projects\Zlecenia\Biblioteka filmow (dodac testy jednostkowe)\projekt\projekt\Projekt-Programowanie-master\projekt_programowanie\obj\Debug\PageBest.g.cs
+C:\Users\Mariusz\Documents\Visual Studio 2019\Projects\Zlecenia\Biblioteka filmow (dodac testy jednostkowe)\projekt\projekt\Projekt-Programowanie-master\projekt_programowanie\obj\Debug\PageHome.g.cs
+C:\Users\Mariusz\Documents\Visual Studio 2019\Projects\Zlecenia\Biblioteka filmow (dodac testy jednostkowe)\projekt\projekt\Projekt-Programowanie-master\projekt_programowanie\obj\Debug\PageMovie.g.cs
+C:\Users\Mariusz\Documents\Visual Studio 2019\Projects\Zlecenia\Biblioteka filmow (dodac testy jednostkowe)\projekt\projekt\Projekt-Programowanie-master\projekt_programowanie\obj\Debug\PageRandom.g.cs
+C:\Users\Mariusz\Documents\Visual Studio 2019\Projects\Zlecenia\Biblioteka filmow (dodac testy jednostkowe)\projekt\projekt\Projekt-Programowanie-master\projekt_programowanie\obj\Debug\PageSearch.g.cs
+C:\Users\Mariusz\Documents\Visual Studio 2019\Projects\Zlecenia\Biblioteka filmow (dodac testy jednostkowe)\projekt\projekt\Projekt-Programowanie-master\projekt_programowanie\obj\Debug\PageSeries.g.cs
+C:\Users\Mariusz\Documents\Visual Studio 2019\Projects\Zlecenia\Biblioteka filmow (dodac testy jednostkowe)\projekt\projekt\Projekt-Programowanie-master\projekt_programowanie\obj\Debug\App.g.cs
+C:\Users\Mariusz\Documents\Visual Studio 2019\Projects\Zlecenia\Biblioteka filmow (dodac testy jednostkowe)\projekt\projekt\Projekt-Programowanie-master\projekt_programowanie\obj\Debug\projekt_programowanie_MarkupCompile.cache
+C:\Users\Mariusz\Documents\Visual Studio 2019\Projects\Zlecenia\Biblioteka filmow (dodac testy jednostkowe)\projekt\projekt\Projekt-Programowanie-master\projekt_programowanie\obj\Debug\projekt_programowanie_MarkupCompile.lref
+C:\Users\Mariusz\Documents\Visual Studio 2019\Projects\Zlecenia\Biblioteka filmow (dodac testy jednostkowe)\projekt\projekt\Projekt-Programowanie-master\projekt_programowanie\obj\Debug\App.baml
+C:\Users\Mariusz\Documents\Visual Studio 2019\Projects\Zlecenia\Biblioteka filmow (dodac testy jednostkowe)\projekt\projekt\Projekt-Programowanie-master\projekt_programowanie\obj\Debug\projekt_programowanie.g.resources
+C:\Users\Mariusz\Documents\Visual Studio 2019\Projects\Zlecenia\Biblioteka filmow (dodac testy jednostkowe)\projekt\projekt\Projekt-Programowanie-master\projekt_programowanie\obj\Debug\projekt_programowanie.Properties.Resources.resources
+C:\Users\Mariusz\Documents\Visual Studio 2019\Projects\Zlecenia\Biblioteka filmow (dodac testy jednostkowe)\projekt\projekt\Projekt-Programowanie-master\projekt_programowanie\obj\Debug\projekt_programowanie.csproj.GenerateResource.cache
+C:\Users\Mariusz\Documents\Visual Studio 2019\Projects\Zlecenia\Biblioteka filmow (dodac testy jednostkowe)\projekt\projekt\Projekt-Programowanie-master\projekt_programowanie\obj\Debug\projekt_programowanie.csproj.CoreCompileInputs.cache
+C:\Users\Mariusz\Documents\Visual Studio 2019\Projects\Zlecenia\Biblioteka filmow (dodac testy jednostkowe)\projekt\projekt\Projekt-Programowanie-master\projekt_programowanie\obj\Debug\projekt_programowanie.csproj.CopyComplete
+C:\Users\Mariusz\Documents\Visual Studio 2019\Projects\Zlecenia\Biblioteka filmow (dodac testy jednostkowe)\projekt\projekt\Projekt-Programowanie-master\projekt_programowanie\obj\Debug\projekt_programowanie.exe
+C:\Users\Mariusz\Documents\Visual Studio 2019\Projects\Zlecenia\Biblioteka filmow (dodac testy jednostkowe)\projekt\projekt\Projekt-Programowanie-master\projekt_programowanie\obj\Debug\projekt_programowanie.pdb
+C:\Users\Mariusz\Documents\Visual Studio 2019\Projects\Zlecenia\Biblioteka filmow (t. jedn.)\Projekt-Programowanie-master\projekt_programowanie\bin\Debug\projekt_programowanie.exe.config
+C:\Users\Mariusz\Documents\Visual Studio 2019\Projects\Zlecenia\Biblioteka filmow (t. jedn.)\Projekt-Programowanie-master\projekt_programowanie\bin\Debug\projekt_programowanie.exe
+C:\Users\Mariusz\Documents\Visual Studio 2019\Projects\Zlecenia\Biblioteka filmow (t. jedn.)\Projekt-Programowanie-master\projekt_programowanie\bin\Debug\projekt_programowanie.pdb
+C:\Users\Mariusz\Documents\Visual Studio 2019\Projects\Zlecenia\Biblioteka filmow (t. jedn.)\Projekt-Programowanie-master\projekt_programowanie\bin\Debug\MaterialDesignColors.dll
+C:\Users\Mariusz\Documents\Visual Studio 2019\Projects\Zlecenia\Biblioteka filmow (t. jedn.)\Projekt-Programowanie-master\projekt_programowanie\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\Mariusz\Documents\Visual Studio 2019\Projects\Zlecenia\Biblioteka filmow (t. jedn.)\Projekt-Programowanie-master\projekt_programowanie\bin\Debug\MaterialDesignColors.pdb
+C:\Users\Mariusz\Documents\Visual Studio 2019\Projects\Zlecenia\Biblioteka filmow (t. jedn.)\Projekt-Programowanie-master\projekt_programowanie\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\Mariusz\Documents\Visual Studio 2019\Projects\Zlecenia\Biblioteka filmow (t. jedn.)\Projekt-Programowanie-master\projekt_programowanie\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\Mariusz\Documents\Visual Studio 2019\Projects\Zlecenia\Biblioteka filmow (t. jedn.)\Projekt-Programowanie-master\projekt_programowanie\obj\Debug\MainWindow.baml
+C:\Users\Mariusz\Documents\Visual Studio 2019\Projects\Zlecenia\Biblioteka filmow (t. jedn.)\Projekt-Programowanie-master\projekt_programowanie\obj\Debug\MyBase.baml
+C:\Users\Mariusz\Documents\Visual Studio 2019\Projects\Zlecenia\Biblioteka filmow (t. jedn.)\Projekt-Programowanie-master\projekt_programowanie\obj\Debug\PageBest.baml
+C:\Users\Mariusz\Documents\Visual Studio 2019\Projects\Zlecenia\Biblioteka filmow (t. jedn.)\Projekt-Programowanie-master\projekt_programowanie\obj\Debug\PageHome.baml
+C:\Users\Mariusz\Documents\Visual Studio 2019\Projects\Zlecenia\Biblioteka filmow (t. jedn.)\Projekt-Programowanie-master\projekt_programowanie\obj\Debug\PageMovie.baml
+C:\Users\Mariusz\Documents\Visual Studio 2019\Projects\Zlecenia\Biblioteka filmow (t. jedn.)\Projekt-Programowanie-master\projekt_programowanie\obj\Debug\PageRandom.baml
+C:\Users\Mariusz\Documents\Visual Studio 2019\Projects\Zlecenia\Biblioteka filmow (t. jedn.)\Projekt-Programowanie-master\projekt_programowanie\obj\Debug\PageSearch.baml
+C:\Users\Mariusz\Documents\Visual Studio 2019\Projects\Zlecenia\Biblioteka filmow (t. jedn.)\Projekt-Programowanie-master\projekt_programowanie\obj\Debug\PageSeries.baml
+C:\Users\Mariusz\Documents\Visual Studio 2019\Projects\Zlecenia\Biblioteka filmow (t. jedn.)\Projekt-Programowanie-master\projekt_programowanie\obj\Debug\MainWindow.g.cs
+C:\Users\Mariusz\Documents\Visual Studio 2019\Projects\Zlecenia\Biblioteka filmow (t. jedn.)\Projekt-Programowanie-master\projekt_programowanie\obj\Debug\MyBase.g.cs
+C:\Users\Mariusz\Documents\Visual Studio 2019\Projects\Zlecenia\Biblioteka filmow (t. jedn.)\Projekt-Programowanie-master\projekt_programowanie\obj\Debug\PageBest.g.cs
+C:\Users\Mariusz\Documents\Visual Studio 2019\Projects\Zlecenia\Biblioteka filmow (t. jedn.)\Projekt-Programowanie-master\projekt_programowanie\obj\Debug\PageHome.g.cs
+C:\Users\Mariusz\Documents\Visual Studio 2019\Projects\Zlecenia\Biblioteka filmow (t. jedn.)\Projekt-Programowanie-master\projekt_programowanie\obj\Debug\PageMovie.g.cs
+C:\Users\Mariusz\Documents\Visual Studio 2019\Projects\Zlecenia\Biblioteka filmow (t. jedn.)\Projekt-Programowanie-master\projekt_programowanie\obj\Debug\PageRandom.g.cs
+C:\Users\Mariusz\Documents\Visual Studio 2019\Projects\Zlecenia\Biblioteka filmow (t. jedn.)\Projekt-Programowanie-master\projekt_programowanie\obj\Debug\PageSearch.g.cs
+C:\Users\Mariusz\Documents\Visual Studio 2019\Projects\Zlecenia\Biblioteka filmow (t. jedn.)\Projekt-Programowanie-master\projekt_programowanie\obj\Debug\PageSeries.g.cs
+C:\Users\Mariusz\Documents\Visual Studio 2019\Projects\Zlecenia\Biblioteka filmow (t. jedn.)\Projekt-Programowanie-master\projekt_programowanie\obj\Debug\App.g.cs
+C:\Users\Mariusz\Documents\Visual Studio 2019\Projects\Zlecenia\Biblioteka filmow (t. jedn.)\Projekt-Programowanie-master\projekt_programowanie\obj\Debug\projekt_programowanie_MarkupCompile.cache
+C:\Users\Mariusz\Documents\Visual Studio 2019\Projects\Zlecenia\Biblioteka filmow (t. jedn.)\Projekt-Programowanie-master\projekt_programowanie\obj\Debug\projekt_programowanie_MarkupCompile.lref
+C:\Users\Mariusz\Documents\Visual Studio 2019\Projects\Zlecenia\Biblioteka filmow (t. jedn.)\Projekt-Programowanie-master\projekt_programowanie\obj\Debug\App.baml
+C:\Users\Mariusz\Documents\Visual Studio 2019\Projects\Zlecenia\Biblioteka filmow (t. jedn.)\Projekt-Programowanie-master\projekt_programowanie\obj\Debug\projekt_programowanie.g.resources
+C:\Users\Mariusz\Documents\Visual Studio 2019\Projects\Zlecenia\Biblioteka filmow (t. jedn.)\Projekt-Programowanie-master\projekt_programowanie\obj\Debug\projekt_programowanie.Properties.Resources.resources
+C:\Users\Mariusz\Documents\Visual Studio 2019\Projects\Zlecenia\Biblioteka filmow (t. jedn.)\Projekt-Programowanie-master\projekt_programowanie\obj\Debug\projekt_programowanie.csproj.GenerateResource.cache
+C:\Users\Mariusz\Documents\Visual Studio 2019\Projects\Zlecenia\Biblioteka filmow (t. jedn.)\Projekt-Programowanie-master\projekt_programowanie\obj\Debug\projekt_programowanie.csproj.CoreCompileInputs.cache
+C:\Users\Mariusz\Documents\Visual Studio 2019\Projects\Zlecenia\Biblioteka filmow (t. jedn.)\Projekt-Programowanie-master\projekt_programowanie\obj\Debug\projekt_programowanie.csproj.CopyComplete
+C:\Users\Mariusz\Documents\Visual Studio 2019\Projects\Zlecenia\Biblioteka filmow (t. jedn.)\Projekt-Programowanie-master\projekt_programowanie\obj\Debug\projekt_programowanie.exe
+C:\Users\Mariusz\Documents\Visual Studio 2019\Projects\Zlecenia\Biblioteka filmow (t. jedn.)\Projekt-Programowanie-master\projekt_programowanie\obj\Debug\projekt_programowanie.pdb
+C:\Users\Karol\Desktop\Nowy folder (6)\Projekt-Programowanie-master\projekt_programowanie\bin\Debug\NUnit3.TestAdapter.dll
+C:\Users\Karol\Desktop\Nowy folder (6)\Projekt-Programowanie-master\projekt_programowanie\bin\Debug\NUnit3.TestAdapter.pdb
+C:\Users\Karol\Desktop\Nowy folder (6)\Projekt-Programowanie-master\projekt_programowanie\bin\Debug\nunit.engine.dll
+C:\Users\Karol\Desktop\Nowy folder (6)\Projekt-Programowanie-master\projekt_programowanie\bin\Debug\nunit.engine.api.dll
+C:\Users\Karol\Desktop\Nowy folder (6)\Projekt-Programowanie-master\projekt_programowanie\bin\Debug\nunit.engine.core.dll
+C:\Users\Karol\Desktop\Nowy folder (6)\Projekt-Programowanie-master\projekt_programowanie\bin\Debug\projekt_programowanie.exe.config
+C:\Users\Karol\Desktop\Nowy folder (6)\Projekt-Programowanie-master\projekt_programowanie\bin\Debug\projekt_programowanie.exe
+C:\Users\Karol\Desktop\Nowy folder (6)\Projekt-Programowanie-master\projekt_programowanie\bin\Debug\projekt_programowanie.pdb
+C:\Users\Karol\Desktop\Nowy folder (6)\Projekt-Programowanie-master\projekt_programowanie\bin\Debug\MaterialDesignColors.dll
+C:\Users\Karol\Desktop\Nowy folder (6)\Projekt-Programowanie-master\projekt_programowanie\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\Karol\Desktop\Nowy folder (6)\Projekt-Programowanie-master\projekt_programowanie\bin\Debug\MySql.Data.dll
+C:\Users\Karol\Desktop\Nowy folder (6)\Projekt-Programowanie-master\projekt_programowanie\bin\Debug\nunit.framework.dll
+C:\Users\Karol\Desktop\Nowy folder (6)\Projekt-Programowanie-master\projekt_programowanie\bin\Debug\Google.Protobuf.dll
+C:\Users\Karol\Desktop\Nowy folder (6)\Projekt-Programowanie-master\projekt_programowanie\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Karol\Desktop\Nowy folder (6)\Projekt-Programowanie-master\projekt_programowanie\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\Karol\Desktop\Nowy folder (6)\Projekt-Programowanie-master\projekt_programowanie\bin\Debug\Renci.SshNet.dll
+C:\Users\Karol\Desktop\Nowy folder (6)\Projekt-Programowanie-master\projekt_programowanie\bin\Debug\MaterialDesignColors.pdb
+C:\Users\Karol\Desktop\Nowy folder (6)\Projekt-Programowanie-master\projekt_programowanie\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\Karol\Desktop\Nowy folder (6)\Projekt-Programowanie-master\projekt_programowanie\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\Karol\Desktop\Nowy folder (6)\Projekt-Programowanie-master\projekt_programowanie\bin\Debug\MySql.Data.xml
+C:\Users\Karol\Desktop\Nowy folder (6)\Projekt-Programowanie-master\projekt_programowanie\bin\Debug\nunit.framework.pdb
+C:\Users\Karol\Desktop\Nowy folder (6)\Projekt-Programowanie-master\projekt_programowanie\bin\Debug\nunit.framework.xml
+C:\Users\Karol\Desktop\Nowy folder (6)\Projekt-Programowanie-master\projekt_programowanie\obj\Debug\projekt_programowanie.csprojAssemblyReference.cache
+C:\Users\Karol\Desktop\Nowy folder (6)\Projekt-Programowanie-master\projekt_programowanie\obj\Debug\MainWindow.baml
+C:\Users\Karol\Desktop\Nowy folder (6)\Projekt-Programowanie-master\projekt_programowanie\obj\Debug\MyBase.baml
+C:\Users\Karol\Desktop\Nowy folder (6)\Projekt-Programowanie-master\projekt_programowanie\obj\Debug\PageBest.baml
+C:\Users\Karol\Desktop\Nowy folder (6)\Projekt-Programowanie-master\projekt_programowanie\obj\Debug\PageHome.baml
+C:\Users\Karol\Desktop\Nowy folder (6)\Projekt-Programowanie-master\projekt_programowanie\obj\Debug\PageMovie.baml
+C:\Users\Karol\Desktop\Nowy folder (6)\Projekt-Programowanie-master\projekt_programowanie\obj\Debug\PageRandom.baml
+C:\Users\Karol\Desktop\Nowy folder (6)\Projekt-Programowanie-master\projekt_programowanie\obj\Debug\PageSearch.baml
+C:\Users\Karol\Desktop\Nowy folder (6)\Projekt-Programowanie-master\projekt_programowanie\obj\Debug\PageSeries.baml
+C:\Users\Karol\Desktop\Nowy folder (6)\Projekt-Programowanie-master\projekt_programowanie\obj\Debug\MainWindow.g.cs
+C:\Users\Karol\Desktop\Nowy folder (6)\Projekt-Programowanie-master\projekt_programowanie\obj\Debug\MyBase.g.cs
+C:\Users\Karol\Desktop\Nowy folder (6)\Projekt-Programowanie-master\projekt_programowanie\obj\Debug\PageBest.g.cs
+C:\Users\Karol\Desktop\Nowy folder (6)\Projekt-Programowanie-master\projekt_programowanie\obj\Debug\PageHome.g.cs
+C:\Users\Karol\Desktop\Nowy folder (6)\Projekt-Programowanie-master\projekt_programowanie\obj\Debug\PageMovie.g.cs
+C:\Users\Karol\Desktop\Nowy folder (6)\Projekt-Programowanie-master\projekt_programowanie\obj\Debug\PageRandom.g.cs
+C:\Users\Karol\Desktop\Nowy folder (6)\Projekt-Programowanie-master\projekt_programowanie\obj\Debug\PageSearch.g.cs
+C:\Users\Karol\Desktop\Nowy folder (6)\Projekt-Programowanie-master\projekt_programowanie\obj\Debug\PageSeries.g.cs
+C:\Users\Karol\Desktop\Nowy folder (6)\Projekt-Programowanie-master\projekt_programowanie\obj\Debug\App.g.cs
+C:\Users\Karol\Desktop\Nowy folder (6)\Projekt-Programowanie-master\projekt_programowanie\obj\Debug\projekt_programowanie_MarkupCompile.cache
+C:\Users\Karol\Desktop\Nowy folder (6)\Projekt-Programowanie-master\projekt_programowanie\obj\Debug\projekt_programowanie_MarkupCompile.lref
+C:\Users\Karol\Desktop\Nowy folder (6)\Projekt-Programowanie-master\projekt_programowanie\obj\Debug\App.baml
+C:\Users\Karol\Desktop\Nowy folder (6)\Projekt-Programowanie-master\projekt_programowanie\obj\Debug\projekt_programowanie.g.resources
+C:\Users\Karol\Desktop\Nowy folder (6)\Projekt-Programowanie-master\projekt_programowanie\obj\Debug\projekt_programowanie.Properties.Resources.resources
+C:\Users\Karol\Desktop\Nowy folder (6)\Projekt-Programowanie-master\projekt_programowanie\obj\Debug\projekt_programowanie.csproj.GenerateResource.cache
+C:\Users\Karol\Desktop\Nowy folder (6)\Projekt-Programowanie-master\projekt_programowanie\obj\Debug\projekt_programowanie.csproj.CoreCompileInputs.cache
+C:\Users\Karol\Desktop\Nowy folder (6)\Projekt-Programowanie-master\projekt_programowanie\obj\Debug\projekt_programowanie.csproj.CopyComplete
+C:\Users\Karol\Desktop\Nowy folder (6)\Projekt-Programowanie-master\projekt_programowanie\obj\Debug\projekt_programowanie.exe
+C:\Users\Karol\Desktop\Nowy folder (6)\Projekt-Programowanie-master\projekt_programowanie\obj\Debug\projekt_programowanie.pdb
